@@ -13,5 +13,4 @@ export default defineConfig({
   site: "https://jspalms.github.io",
   output: "server",
   integrations: [mdx(), sitemap(), tailwind(), icon()],
-  adapter: netlify(),
 });

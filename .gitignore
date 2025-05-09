@@ -12,7 +12,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 bun.lockb
-package-lock.json
+# package-lock.json needs to be included for astro workflow
 .vscode/
 
 # environment variables
